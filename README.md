@@ -6,4 +6,9 @@
 
 3. mv vimsetting/.vimrc ..
 
+if permission denied
+  cd vimsetting
+  mv .vimrc ..
+  cd ..
+
 4. rm -rf vimsetting
