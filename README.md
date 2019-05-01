@@ -1,6 +1,6 @@
 # vimsetting
 
-##one shot
+## one shot
 cd ~ && git clone https://github.com/pkiop/vimsetting.git && cd vimsetting && mv .vimrc .. && cd .. && rm -rf vimsetting
 
 
