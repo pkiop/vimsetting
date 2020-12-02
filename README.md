@@ -2,7 +2,9 @@
 
 ## one shot
 cd ~ && git clone https://github.com/pkiop/vimsetting.git && cd vimsetting && mv .vimrc .. && cd .. && rm -rf vimsetting
-
+mkdir -p ~/.vim/colors
+cd ~/.vim/colors
+curl -O https://raw.githubusercontent.com/nanotech/jellybeans.vim/master/colors/jellybeans.vim
 
 ## explain
 1. cd ~
