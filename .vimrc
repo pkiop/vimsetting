@@ -13,5 +13,5 @@ set sw=1
 set autowrite
 set history=256
 set showmatch
-colorscheme evening
+colorscheme jellybeans
 
